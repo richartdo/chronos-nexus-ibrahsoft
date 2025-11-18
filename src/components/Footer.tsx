@@ -55,7 +55,7 @@ const Footer = () => {
               </a>
               <a href="mailto:info@ibrahsoft.com" className="flex items-center text-muted-foreground hover:text-primary transition-colors">
                 <Mail className="mr-2 h-4 w-4" />
-                info@ibrahsoft.com
+                brianarichard14@gmail.com
               </a>
             </div>
           </div>

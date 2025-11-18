@@ -53,8 +53,8 @@ const Home = () => {
             {/* Hero Content */}
             <div className="space-y-8 animate-fade-in-up">
               <h1 className="text-5xl md:text-7xl font-bold leading-tight">
-                Tech{" "}
-                <span className="gradient-text text-glow">Company</span>
+                AI, Cloud, and Software Solutions {" "}
+                <span className="gradient-text text-glow">for a Smarter World</span>
               </h1>
               <p className="text-xl md:text-2xl text-muted-foreground">
                 Find your tech solutions with us.

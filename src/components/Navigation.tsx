@@ -27,7 +27,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="text-2xl font-bold">
-            <span className="gradient-text">IbrahSoft Solutions</span>
+            <span className="gradient-text">IBRAHSOFT SOLUTIONS</span>
           </Link>
 
           {/* Desktop Navigation */}
