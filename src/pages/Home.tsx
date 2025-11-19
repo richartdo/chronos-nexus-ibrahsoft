@@ -228,7 +228,7 @@ const Home = () => {
 
       {/* Optional footer */}
       <p className="mt-12 text-gray-400 text-center max-w-md animate-fade-in-up">
-        Meanwhile, you can reach out to us via WhatsApp or email for any inquiries.
+        Meanwhile, you can reach out to us via WhatsApp: +254795594142 or email: brianarichard14@gmail.com for any inquiries.
       </p>
     </div>
   );
