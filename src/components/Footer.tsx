@@ -141,3 +141,82 @@
 // };
 
 // export default Footer;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const Footer = () => {
+  return (
+    <footer className="w-full py-6 mt-12 border-t border-yellow-400/20 bg-black/30 backdrop-blur-md">
+      <div className="container mx-auto text-center text-gray-300">
+        <p className="mb-2">Need assistance? Contact us:</p>
+        
+        <p className="text-yellow-400 font-semibold">
+          WhatsApp: +254795594142
+        </p>
+
+        <p className="text-yellow-400 font-semibold">
+          Email: brianarichard14@gmail.com
+        </p>
+
+        <p className="mt-4 text-xs text-gray-500">
+          © {new Date().getFullYear()} IbrahSoft Solutions. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  );
+};
+
+export default Footer;
